@@ -32,7 +32,7 @@ Create a real-time chat application where users can send and receive messages in
 ##### Styling:
 1. **Create a Stylish Layout**:
    - Design a user-friendly interface for the chat application.
-   - Use CSS or a CSS framework like Bootstrap for styling.
+   - Use CSS or a CSS framework like Tailwindcss/daisyui for styling.
 
 2. **Responsive Design**:
    - Ensure the chat application is responsive and looks good on various screen sizes.
